@@ -25,7 +25,7 @@ danspeech==1.0.3
 decorator==4.4.1
 defusedxml==0.6.0
 diff-match-patch==20181111
-Django==3.0.7
+Django==3.1.6
 docutils==0.16
 entrypoints==0.3
 flake8==3.7.9
